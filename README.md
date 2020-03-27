@@ -5,6 +5,6 @@ Site: http://zzzscore.com/1to50/en/
 
 Browser: FireFox
 
-Language: Python
+Language: Python 3.X
 
 Framework: Selenium
